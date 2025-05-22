@@ -1,0 +1,16 @@
+[project]
+name = "fft"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "darts>=0.35.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.2",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "scipy>=1.15.3",
+    "tqdm>=4.67.1",
+]
